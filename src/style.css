@@ -4,6 +4,15 @@ body{
     color: #2f2f2f;
     background-color: #f9f7f1;
 }
+.darkmode{
+    background-color:	#3e3e42;
+    color: white;
+}
+.lightmode{
+    background-color: white;
+    color: black;
+}
+
 h1{
     font-family: 'Playfair Display', serif;
     font-weight: 900;
